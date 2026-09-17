@@ -2,6 +2,8 @@ ojout des fonctionnalitées  pour mon premier projet de
 jdkslfhohzreuijfijezldiefrehoi
 ajout des modification test etant sur suit-doc-2
 ldfjhilufhveoizu
-
+ajout test etant sur suit-doc-2
+kjhdlshmquezhmouez
+>>>>>>> 4df23c7 (feact ; doc-5)
 
 
